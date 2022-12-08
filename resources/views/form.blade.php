@@ -1,6 +1,6 @@
 <Html>  
 <Head>  
-<title> test</title>  
+<title> test2</title>  
 </Head>  
 <Body>  
 <form method="Post" action="{{route('forms.store')}}" enctype="multipart/form-data">  
