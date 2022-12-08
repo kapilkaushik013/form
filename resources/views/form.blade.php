@@ -1,6 +1,6 @@
 <Html>  
 <Head>  
-<title> File Upload </title>  
+<title> test</title>  
 </Head>  
 <Body>  
 <form method="Post" action="{{route('forms.store')}}" enctype="multipart/form-data">  
